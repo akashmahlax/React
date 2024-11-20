@@ -1,0 +1,17 @@
+src/
+├── components/
+│   ├── Navbar.js
+│   ├── VideoCard.js
+│   ├── Footer.js
+├── pages/
+│   ├── HomePage.js
+│   ├── LoginPage.js
+│   ├── ProfilePage.js
+│   ├── VideoDetailsPage.js
+│   └── UploadPage.js
+├── utils/
+│   └── api.js // For backend calls
+├── App.js
+├── index.js
+└── index.css
+components
